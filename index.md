@@ -52,7 +52,7 @@ For your first milestone, describe what your project is and how you plan to buil
 -There are three main components in this project: the controller, the circuitry, and the robotic arm. The controller allows the user to input the desired position of the arm, which is sent as electrical signals to the circuitry. The Arduino processes these signals and sends instructions to the servo motors, which control the movement of the arm's joints. Together, these components form an integrated system that converts user input into precise physical movement. 
 - Technical progress you've made so far
 - Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+- My plan to complete this project is in three stages: firstly I want to focus on hardware completing the actual arm, next I want to focus on coding and testing the arm to make sure that my base project works, lastly I want to add some extensions that may include having a wireless control and and a 3d printed gripper design that can conform to the shape of the objects it picks up. 
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
