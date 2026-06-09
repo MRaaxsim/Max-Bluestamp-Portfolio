@@ -49,7 +49,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 For your first milestone, describe what your project is and how you plan to build it. You can include:
 
--There are three main components in this project: the controller, the circuitry, and the robotic arm. The controller allows the user to input the desired position of the arm, which is sent as electrical signals to the circuitry. The Arduino processes these signals and sends instructions to the servo motors, which control the movement of the arm's joints. Together, these components form an integrated system that converts user input into precise physical movement. 
+- There are three main components in this project: the controller, the circuitry, and the robotic arm. The controller allows the user to input the desired position of the arm, which is sent as electrical signals to the circuitry. The Arduino processes these signals and sends instructions to the servo motors, which control the movement of the arm's joints. Together, these components form an integrated system that converts user input into precise physical movement. 
 - Technical progress you've made so far
 - Challenges you're facing and solving in your future milestones
 - My plan to complete this project is in three stages: firstly I want to focus on hardware completing the actual arm, next I want to focus on coding and testing the arm to make sure that my base project works, lastly I want to add some extensions that may include having a wireless control and and a 3d printed gripper design that can conform to the shape of the objects it picks up. 
