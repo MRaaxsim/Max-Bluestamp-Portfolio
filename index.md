@@ -59,8 +59,7 @@ For your first milestone, describe what your project is and how you plan to buil
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 <img width="1056" height="811" alt="Screenshot 2026-06-09 at 2 30 11 PM" src="https://github.com/user-attachments/assets/6b040867-40fd-48e8-adb4-464591d8a8b3" />
 [Robotic Arm Wiring.pdf](https://github.com/user-attachments/files/28771700/Robotic.Arm.Wiring.pdf)
-[Robotic Arm Wiring.pdf](https://github.com/user-attachments/files/28771645/Robotic.Arm.Wiring.pdf)
-[Robotic Arm Wiring.pdf](https://github.com/user-attachments/files/28771635/Robotic.Arm.Wiring.pdf)
+
 
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
