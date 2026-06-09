@@ -56,7 +56,10 @@ For your first milestone, describe what your project is and how you plan to buil
 - My plan to complete this project is in three stages: firstly I want to focus on hardware completing the actual arm, next I want to focus on coding and testing the arm to make sure that my base project works, lastly I want to add some extensions that may include having a wireless control and and a 3d printed gripper design that can conform to the shape of the objects it picks up. 
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+A few notes about the skematic:
+1.There are four potentiometers (dials) and each pair represents one joystick moving in the x and y directions
+2.The battery regulator is built into the Nano Sensor shiled but they dont have this in TinkerCAD so I had to use a seperate batery regulator
+3.To replecate the embeded internal power tracers of the Nano both the ground and power cables for the actuators (servos) and analog inputs (potentiometers) are connected together before attaching to the nano this eliminates the need for an extra breadboard. 
 <img width="1056" height="811" alt="Screenshot 2026-06-09 at 2 30 11 PM" src="https://github.com/user-attachments/assets/6b040867-40fd-48e8-adb4-464591d8a8b3" />
 [Robotic Arm Wiring.pdf](https://github.com/user-attachments/files/28771700/Robotic.Arm.Wiring.pdf)
 
