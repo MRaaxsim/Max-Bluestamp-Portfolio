@@ -1,3 +1,5 @@
+<img width="1056" height="811" alt="Screenshot 2026-06-09 at 2 30 11 PM" src="https://github.com/user-attachments/assets/6b040867-40fd-48e8-adb4-464591d8a8b3" />
+[Robotic Arm Wiring.pdf](https://github.com/user-attachments/files/28771700/Robotic.Arm.Wiring.pdf)
 [Robotic Arm Wiring.pdf](https://github.com/user-attachments/files/28771645/Robotic.Arm.Wiring.pdf)
 [Robotic Arm Wiring.pdf](https://github.com/user-attachments/files/28771635/Robotic.Arm.Wiring.pdf)
 # Blue Stamp Robotic Arm
