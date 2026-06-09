@@ -57,9 +57,9 @@ For your first milestone, describe what your project is and how you plan to buil
 
 # Schematics 
 A few notes about the skematic:
-1.There are four potentiometers (dials) and each pair represents one joystick moving in the x and y directions
-2.The battery regulator is built into the Nano Sensor shiled but they dont have this in TinkerCAD so I had to use a seperate batery regulator
-3.To replecate the embeded internal power tracers of the Nano both the ground and power cables for the actuators (servos) and analog inputs (potentiometers) are connected together before attaching to the nano this eliminates the need for an extra breadboard. 
+1. There are four potentiometers (dials) and each pair represents one joystick moving in the x and y directions
+2. The battery regulator is built into the Nano Sensor shiled but they dont have this in TinkerCAD so I had to use a seperate batery regulator
+3. To replecate the embeded internal power tracers of the Nano both the ground and power cables for the actuators (servos) and analog inputs (potentiometers) are connected together before attaching to the nano this eliminates the need for an extra breadboard. 
 <img width="1056" height="811" alt="Screenshot 2026-06-09 at 2 30 11 PM" src="https://github.com/user-attachments/assets/6b040867-40fd-48e8-adb4-464591d8a8b3" />
 [Robotic Arm Wiring.pdf](https://github.com/user-attachments/files/28771700/Robotic.Arm.Wiring.pdf)
 
