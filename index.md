@@ -88,7 +88,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | LK COKOINO Robot Arm for Arduion | Base Kit for the Project | $46.99 | <a href="https://www.amazon.com/LK-COKOINO-Compliment-Engineering-Technology/dp/B081FG1JQ1"> Link </a> |
 | California JOS 2 Pack 9V Battery Clip | Used to Connect Battery to Sensor Shield | $3.97 | <a href="https://www.amazon.com/Battery-Connector-Electronics-Experiment-Research/dp/"> Link </a> |
-| 5pcs Nano UNO I/O Extended Sensor Shield for Arduino | Used to replace sensor shield that came with the kit to be compatable with new battery | $9.96 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/\"> Link </a> |
+| 5pcs Nano UNO I/O Extended Sensor Shield for Arduino | Used to replace sensor shield that came with the kit to be compatable with new battery | $9.96 | <a href="https://www.amazon.com/5pcs-Extended-Sensor-Shield-Arduino/dp/B0DCK1WKVW/ref=sr_1_6?dib=eyJ2IjoiMSJ9.Q7dsWH-xBzEBF88Afm5zKf8SCNNT4cDD8eynTINNc2AoQiNvshUWWA7WoRWGRZL-wgSXF7YTYVNwBFTs2BcgxIlzWY7TbNoo1PbbN6GHBNqrphe3r1ogdwkevMicshdU9XlPAYBlETU7Anmz-GrY-0RY8xM5xuyC1eem0On8-3QjOAQVXZ3qOnjpuQPNyI_m7rP5ukVbw1pGa782Jek06mEsSCAu_V_B0OlyAHbV13E.TqA2yU_d1S4defV1_9lY2zHV12ZUOZT82NbyhfgGJ6w&dib_tag=se&keywords=5+pcs+arduino+nano+shield&qid=1781119101&sr=8-6"> Link </a> |
 | Amazon Basics 8-Count 9 Volt Alkaline Performance All-Purpose Batteries | Used as a safer battery alternative than the litium that came with the kit | $12.69 | <a href="https://www.amazon.com/Amazon-Basics-Performance-All-Purpose-Batteries/dp/B00MH4QM1S/ref=sr_1_1?"> Link </a>
 
 # Other Resources/Examples
