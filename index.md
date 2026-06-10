@@ -55,7 +55,7 @@ For your first milestone, describe what your project is and how you plan to buil
 - Challenges you're facing and solving in your future milestones
 - My plan to complete this project is in three stages: firstly I want to focus on hardware completing the actual arm, next I want to focus on coding and testing the arm to make sure that my base project works, lastly I want to add some extensions that may include having a wireless control and and a 3d printed gripper design that can conform to the shape of the objects it picks up. 
 
-# Schematics 
+# Schematic 
 A few notes about the skematic:
 1. There are four potentiometers (dials) and each pair represents one joystick moving in the x and y directions.
 2. The battery regulator is built into the Nano Sensor shiled but they dont have this in TinkerCAD so I had to use a seperate batery regulator.
