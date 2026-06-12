@@ -51,8 +51,9 @@ For your second milestone, explain what you've worked on since your previous mil
 For your first milestone, describe what your project is and how you plan to build it. You can include:
 
 - There are three main components in this project: the controller, the circuitry, and the robotic arm. The controller allows the user to input the desired position of the arm, which is sent as electrical signals to the circuitry. The Arduino processes these signals and sends instructions to the servo motors, which control the movement of the arm's joints. Together, these components form an integrated system that converts user input into precise physical movement. 
-- So far I was able to fully assemble the robotic arm and I have uploaded the coad that came with this project to my Arduino. I am in the process of learning how this code works so I can edit it to fit any specifications I may have.
-- My plan to complete this project is in three stages: firstly I want to focus on hardware completing the actual arm, next I want to focus on coding and testing the arm to make sure that my base project works, lastly I want to add some extensions that may include having a wireless control and and a 3d printed gripper design that can conform to the shape of the objects it picks up. 
+- So far I was able to fully assemble the robotic arm and I have uploaded the code that came with this project to my Arduino. I have also learned how the code translates joystick movements into the movement of the actual arm. Understanding the software allows me to modify the arms behavior or add new features in the future. 
+- So far in this project I have learned the basics on how to use tinkerCAD to create schematics (seen bellow) and I gained a foundational understanding of C++ to by examining the arm code.
+- My plan to complete this project is in three stages: firstly I to complete the base project, hardware and software, next I want to focus on brainstorming and developing modifications to my project that may include an addaptive 3d printed gripper design that can conform to the shape of the objects it picks up, lastly I want test the modifications I made to see if they actually help in areas of grip strength, grip duration and the ability to hold irregular objects. 
 
 # Schematic 
 A few notes about the skematic:
