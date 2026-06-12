@@ -56,7 +56,7 @@ For your first milestone, describe what your project is and how you plan to buil
 - My plan to complete this project is in three stages: firstly I to complete the base project, hardware and software, next I want to focus on brainstorming and developing modifications to my project that may include an addaptive 3d printed gripper design that can conform to the shape of the objects it picks up, lastly I want test the modifications I made to see if they actually help in areas of grip strength, grip duration and the ability to hold irregular objects. 
 
 # Schematic 
-A few notes about the skematic:
+A few notes about the schematic:
 1. There are four potentiometers (dials) and each pair represents one joystick moving in the x and y directions.
 2. The battery regulator is built into the Nano Sensor shiled but they dont have this in TinkerCAD so I had to use a seperate batery regulator.
 3. To replecate the embeded internal power tracers of the Nano both the ground and power cables for the actuators (servos) and analog inputs (potentiometers) are connected together before attaching to the nano this eliminates the need for an extra breadboard. 
