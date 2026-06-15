@@ -55,7 +55,7 @@ For your second milestone, explain what you've worked on since your previous mil
 <img width="806" height="424" alt="Screenshot 2026-06-15 at 1 29 35 PM" src="https://github.com/user-attachments/assets/3ade97c9-9904-4ec6-8995-cfff8270253c" />
 
 - Third itteration
-- (all images are just one side of the claw)
+(all images are just one side of the claw)
 
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
