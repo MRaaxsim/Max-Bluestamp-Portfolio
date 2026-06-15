@@ -41,14 +41,14 @@ For your second milestone, explain what you've worked on since your previous mil
 - I have installed and coded a button that can set the arm to a home position. This contributes to my final goal by reducing variability in my testing because now I know exactly where the claw will be for each test.
 - I have designed a modification to the claw where TPU (flexible fillament) can exented about a milimeter beyond the end of the claw to hopefully give extra grip. I went through a design process that included 3 improvements the first design consisted of two parts that I would have had to glue together to instal. In the second itteration I improved the design by changing it so that the print slid directly onto existing hex nuts. Then the last itterition I included a honeycomb hole design that would hopefully allow the TPU to bend and deform more. (images of each are linked bellow)
 <img width="837" height="360" alt="Screenshot 2026-06-15 at 1 28 36 PM" src="https://github.com/user-attachments/assets/b6f88237-30cd-4753-90e4-d4799cd7a8ea" />
-Top part of first itteration
+- Top part of first itteration
 <img width="864" height="210" alt="Screenshot 2026-06-15 at 1 28 59 PM" src="https://github.com/user-attachments/assets/c13d155b-2383-4bd0-8b1b-3a617ddea629" />
-Bottom part of first itteration
+- Bottom part of first itteration
 <img width="814" height="425" alt="Screenshot 2026-06-15 at 1 29 13 PM" src="https://github.com/user-attachments/assets/d7a2e012-37bb-4fba-ad02-f4985cf5248e" />
-Seccond itteration
+- Seccond itteration
 <img width="806" height="424" alt="Screenshot 2026-06-15 at 1 29 35 PM" src="https://github.com/user-attachments/assets/3ade97c9-9904-4ec6-8995-cfff8270253c" />
-Third itteration
-(all images are just one side of the claw)
+- Third itteration
+- (all images are just one side of the claw)
 
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
