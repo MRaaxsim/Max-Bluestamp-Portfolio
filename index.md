@@ -1,3 +1,4 @@
+<img width="860" height="416" alt="Screenshot 2026-06-16 at 12 06 35 PM" src="https://github.com/user-attachments/assets/92d958a2-90fe-4d0d-b767-3148a73f8e97" />
 
 # Blue Stamp Robotic Arm
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
