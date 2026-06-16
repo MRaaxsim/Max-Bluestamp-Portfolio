@@ -57,7 +57,7 @@ For your second milestone, explain what you've worked on since your previous mil
 - Third itteration
 (all images are just one side of the claw)
 
-- What has been surprising about the project so far
+- It has surprised me how much progress I can make by just continueing to work and not making excusses. Before starting, I viewed circuitry and programming as highly complex subjects. However, by working with them directly and learning through experimentation, I found that both became much more approachable than I originally expected. This experience has increased my confidence in my ability to learn new technical skills and solve engineering problems independently.
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone 
 
@@ -94,6 +94,7 @@ int xL,yL,xR,yR;
 const int act_max=10;    //Default 10 action,4 the Angle of servo
 int act[act_max][4];    //Only can change the number of action
 int num=0,num_do=0;
+const int buttonPin = 8;
 ///////////////////////////////////////////////////////////////
 void turnUD(void){
   if(xL!=512){ //  512 is the middle value or when the joystick is centered it ranges from 0 all the way left to 1024 all the way right
@@ -207,6 +208,7 @@ void setup() {
   //arm of joy stick connection pins : xL,yL,xR,yR
   arm.JoyStickAttach(A0,A1,A2,A3);
   pinMode(buzzerPin,OUTPUT);
+  pinMode(buttonPin, INPUT_PULLUP);
 }
 ///////////////////////////////////////////////////////////////
 void loop() {
@@ -221,6 +223,24 @@ void loop() {
   turnCO();
   C_action();
   Do_action();
+ // Senses if the button is pressed if so it sets it to this position
+  if (digitalRead(buttonPin) == LOW) {
+    arm.servo1.write(88);
+    arm.servo2.write(41);
+    arm.servo3.write(145);
+    arm.servo4.write(60);
+  }
+ // To be able to read and set the home positoin based off of the values set
+ Serial.print("S1: ");
+ Serial.print(arm.servo1.read());
+ Serial.print("  S2: ");
+ Serial.print(arm.servo2.read());
+ Serial.print("  S3: ");
+ Serial.print(arm.servo3.read());
+ Serial.print("  S4: ");
+ Serial.println(arm.servo4.read());
+
+
 }
 ```
 
