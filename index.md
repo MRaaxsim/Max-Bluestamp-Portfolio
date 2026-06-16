@@ -44,15 +44,15 @@ For your second milestone, explain what you've worked on since your previous mil
 
 - Top part of first itteration
 
-<img width="648" height="158" alt="Screenshot 2026-06-15 at 1 28 59 PM" src="https://github.com/user-attachments/assets/c13d155b-2383-4bd0-8b1b-3a617ddea629" />
+<img width="864" height="210" alt="Screenshot 2026-06-15 at 1 28 59 PM" src="https://github.com/user-attachments/assets/c13d155b-2383-4bd0-8b1b-3a617ddea629" />
 
 - Bottom part of first itteration
 
-<img width="648" height="158" alt="Screenshot 2026-06-15 at 1 29 13 PM" src="https://github.com/user-attachments/assets/d7a2e012-37bb-4fba-ad02-f4985cf5248e" />
+<img width="814" height="425" alt="Screenshot 2026-06-15 at 1 29 13 PM" src="https://github.com/user-attachments/assets/d7a2e012-37bb-4fba-ad02-f4985cf5248e" />
 
 - Seccond itteration
 
-<img width="648" height="158" alt="Screenshot 2026-06-15 at 1 29 35 PM" src="https://github.com/user-attachments/assets/3ade97c9-9904-4ec6-8995-cfff8270253c" />
+<img width="806" height="424" alt="Screenshot 2026-06-15 at 1 29 35 PM" src="https://github.com/user-attachments/assets/3ade97c9-9904-4ec6-8995-cfff8270253c" />
 
 - Third itteration
 (all images are just one side of the claw)
