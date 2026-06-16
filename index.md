@@ -1,4 +1,5 @@
-<img width="860" height="416" alt="Screenshot 2026-06-16 at 12 06 35 PM" src="https://github.com/user-attachments/assets/92d958a2-90fe-4d0d-b767-3148a73f8e97" />
+
+
 
 # Blue Stamp Robotic Arm
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
@@ -78,8 +79,7 @@ A few notes about the schematic:
 1. There are four potentiometers (dials) and each pair represents one joystick moving in the x and y directions.
 2. The battery regulator is built into the Nano Sensor shiled but they dont have this in TinkerCAD so I had to use a seperate batery regulator.
 3. To replecate the embeded internal power tracers of the Nano both the ground and power cables for the actuators (servos) and analog inputs (potentiometers) are connected together before attaching to the nano this eliminates the need for an extra breadboard. 
-<img width="1056" height="811" alt="Screenshot 2026-06-09 at 2 30 11 PM" src="https://github.com/user-attachments/assets/6b040867-40fd-48e8-adb4-464591d8a8b3" />
-[Robotic Arm Wiring.pdf](https://github.com/user-attachments/files/28771700/Robotic.Arm.Wiring.pdf)
+<img width="1064" height="822" alt="Screenshot 2026-06-16 at 1 21 42 PM" src="https://github.com/user-attachments/assets/29a25a96-401a-45ce-af5a-9966fdce5165" />
 
 
 # Code
