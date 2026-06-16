@@ -58,8 +58,8 @@ For your second milestone, explain what you've worked on since your previous mil
 (all images are just one side of the claw)
 
 - It has surprised me how much progress I can make by just continueing to work and not making excusses. Before starting, I viewed circuitry and programming as highly complex subjects. However, by working with them directly and learning through experimentation, I found that both became much more approachable than I originally expected. This experience has increased my confidence in my ability to learn new technical skills and solve engineering problems independently.
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+- The most challenging part of these modifications where figuring out exactly how far apart the hex columns in the arm so that the print can slide onto them freely. 
+- Before my final milestone video I need to design and run tests to see if there is any improvement in my design compared to the base project in areas like grip strength 
 
 # First Milestone
 
