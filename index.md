@@ -37,7 +37,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- I have installed and coded a button that can set the arm to a home position. This contributes to my final goal by reducing variability in my testing because now I know exactly where the claw will be for each test.
+- I have installed and coded a button that can set the arm to a home position. This contributes to my final goal by reducing variability in my testing because now I know exactly where the claw will be for each test. I also discovered how to use the record and playback system that will also help to have a constant movement of the arm. 
 - I have designed a modification to the claw where TPU (flexible fillament) can exented about a milimeter beyond the end of the claw to hopefully give extra grip. I went through a design process that included 3 improvements the first design consisted of two parts that I would have had to glue together to instal. In the second itteration I improved the design by changing it so that the print slid directly onto existing hex nuts. Then the last itterition I included a honeycomb hole design that would hopefully allow the TPU to bend and deform more. 
 <img width="837" height="360" alt="Screenshot 2026-06-15 at 1 28 36 PM" src="https://github.com/user-attachments/assets/b6f88237-30cd-4753-90e4-d4799cd7a8ea" />
 
