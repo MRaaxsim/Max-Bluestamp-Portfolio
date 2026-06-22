@@ -100,6 +100,51 @@ A few notes about the schematic:
 
 
 ```c++
+/*
+ * This code applies to cokoino mechanical arm
+ * Through this link you can download the source code:
+ * https://github.com/Cokoino/CKK0006
+ * Company web site:
+ * http://cokoino.com/
+ *                                     ________
+ *                         ----|servo4| 
+ *                        |            --------
+ *                    |servo3|   
+ *                        |
+ *                        |
+ *                    |servo2|
+ *                        |
+ *                        |
+ *                  ___________
+ *                  |  servo1 |
+ *         ____________________
+ *         ____________________
+ * Fanctions:
+ * arm.servo1.read();   //read the servo of angle
+ * arm.servo2.read();
+ * arm.servo3.read();
+ * arm.servo4.read();
+ * 
+ * arm.servo1.write(angle);   //servo run
+ * arm.servo2.write(angle);
+ * arm.servo3.write(angle);
+ * arm.servo4.write(angle);
+ * 
+ * arm.left(speed);    //perform the action 
+ * arm.right(speed);
+ * arm.up(speed);
+ * arm.down(speed);
+ * arm.open(speed);
+ * arm.close(speed);
+ * 
+ * arm.captureAction();    //capture the current action,return pointer array
+ * arm.do_action(int *p,int speed);  //P is a pointer to the array
+ * 
+ * arm.JoyStickL.read_x(); //Returns joystick numerical
+ * arm.JoyStickL.read_y();
+ * arm.JoyStickR.read_x();
+ * arm.JoyStickR.read_y();
+ */
 #include "src/CokoinoArm.h"
 #define buzzerPin 9
 
@@ -180,6 +225,15 @@ void buzzer(int H,int L){
     }
 }
 ///////////////////////////////////////////////////////////////
+void shortBeep(){
+   for(int i=0; i<75; i++){
+    digitalWrite(buzzerPin,HIGH);
+    delayMicroseconds(1500);
+    digitalWrite(buzzerPin,LOW);
+    delayMicroseconds(1500);
+   }
+}
+///////////////////////////////////////////////////////////////
 void C_action(void){
   if(yR>800){
     int *p;
@@ -192,7 +246,7 @@ void C_action(void){
     num_do=num;
     if(num>=act_max){
       num=0;
-      buzzer(600,400);
+      buzzer(1500,1500);
       }
     while(yR>600){yR = arm.JoyStickR.read_y();}
     //Serial.println(act[0][0]);
@@ -201,17 +255,22 @@ void C_action(void){
 ///////////////////////////////////////////////////////////////
 void Do_action(void){
   if(yR<220){
-    buzzer(200,300);
+    for(int i=0;i<100;i++){
+      digitalWrite(buzzerPin,HIGH);
+      delayMicroseconds(1000);
+      digitalWrite(buzzerPin,LOW);
+      delayMicroseconds(1000);        
+    }
     for(int i=0;i<num_do;i++){
       arm.do_action(act[i],15);
       }
     num=0;
     while(yR<420){yR = arm.JoyStickR.read_y();}
-    for(int i=0;i<2000;i++){
+    for(int i=0;i<100;i++){
       digitalWrite(buzzerPin,HIGH);
-      delayMicroseconds(200);
+      delayMicroseconds(1000);
       digitalWrite(buzzerPin,LOW);
-      delayMicroseconds(300);        
+      delayMicroseconds(1000);        
     }
   }
 }
@@ -244,6 +303,7 @@ void loop() {
     arm.servo2.write(41);
     arm.servo3.write(145);
     arm.servo4.write(60);
+    shortBeep( );
   }
  // To be able to read and set the home positoin based off of the values set
  Serial.print("S1: ");
@@ -257,6 +317,7 @@ void loop() {
 
 
 }
+
 ```
 
 # Bill of Materials
