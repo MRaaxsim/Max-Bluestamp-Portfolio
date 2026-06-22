@@ -30,10 +30,10 @@ For your final milestone, explain the outcome of your project. Key details to in
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
-<img width="600" height="800" alt="Breadboard Test" src="https://github.com/user-attachments/assets/2f1ce363-f19c-470b-9ae3-2d67cc098467" /> Breadboard Test
-<img width="800" height="600" alt="IMG_0969" src="https://github.com/user-attachments/assets/755007f5-59ee-4207-8331-efc4a2422405" /> Pen Sideways Test
-<img width="600" height="800" alt="Pen Up Test" src="https://github.com/user-attachments/assets/2f13fb85-4b14-4d77-bf77-77b79764fbe0" /> Pen Upwards Test
-<img width="600" height="800" alt="Sticky Note Test" src="https://github.com/user-attachments/assets/7dc2e828-4c8e-4b36-8eda-b75ff617ea40" /> Sticky Note Test
+<img width="600" height="800" alt="Breadboard Test" src="https://github.com/user-attachments/assets/2f1ce363-f19c-470b-9ae3-2d67cc098467" /> Breadboard 
+<img width="800" height="600" alt="IMG_0969" src="https://github.com/user-attachments/assets/755007f5-59ee-4207-8331-efc4a2422405" /> Pen Sideways 
+<img width="600" height="800" alt="Pen Up Test" src="https://github.com/user-attachments/assets/2f13fb85-4b14-4d77-bf77-77b79764fbe0" /> Pen Upwards 
+<img width="600" height="800" alt="Sticky Note Test" src="https://github.com/user-attachments/assets/7dc2e828-4c8e-4b36-8eda-b75ff617ea40" /> Sticky Note 
 
 
 
