@@ -23,11 +23,11 @@ During this project I built and modified a robotic arm to perform better in the 
 - Since my last milestone I have tested my modification to see if it benifited the design. I tested three different designs, the base project, a foamboard prototype and the final 3D printed part. I had them pick up four different objects, a small breadboard, a pen sideways, pen upwards and a sticky note pad. I took the average of two attempts for each modification and had a cap at two minutes. I found that the modified part preformed noticibly better in most categories my full results are bellow as well as images that show exactly what each item looked like.
 
 | Test Object | 3D Printed TPU | Foam Prototype | No Modification |
-|:-----------:|:--------------:|:--------------:|:---------------:|
-| Pen Sideways | 1:22 | Failed | 11.6 s |
-| Pen Upwards | 2:00 | 1:50 | 1:27.7 |
-| Sticky Notes | 1:57 | 1:49 | Failed |
-| Breadboard | 1:40 | 1:15 | Failed |
+|:--:|:--:|:--:|:--:|
+| Pen Sideways | 1:22 | Failed | 11.6 s 
+| Pen Upwards | 2:00 | 1:50 | 1:27.7 
+| Sticky Notes | 1:57 | 1:49 | Failed 
+| Breadboard | 1:40 | 1:15 | Failed 
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
