@@ -18,7 +18,7 @@ During this project I built and modified a robotic arm to perform better in the 
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BsfRBaeQHXI?si=PwjE1QwxWscbPYGx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=usIyXVOeGWNXYbA3&amp;list=PLe-u_DjFx7etvdoxgh04tIDzwMjn92btk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Since my last milestone I have tested my modification to see if it benifited the design. I tested three different designs, the base project, a foamboard prototype and the final 3D printed part. I had them pick up four different objects, a small breadboard, a pen sideways, pen upwards and a sticky note pad. I took the average of two attempts for each modification and had a cap at two minutes. To reduce variability between test I used the home button and playback features. I found that the modified part preformed noticibly better in most categories my full results are bellow as well as images that show exactly what each item looked like.
 
