@@ -28,6 +28,7 @@ During this project I built and modified a robotic arm to perform better in the 
 | Pen Upwards | 2:00 | 1:50 | 1:27.7 |
 | Sticky Notes | 1:57 | 1:49 | Failed |
 | Breadboard | 1:40 | 1:15 | Failed |
+
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
