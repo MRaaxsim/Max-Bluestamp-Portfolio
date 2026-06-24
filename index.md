@@ -12,7 +12,7 @@ During this project I built and modified a robotic arm to perform better in the 
 | Max R| Las Lomas | Mechanical Engineering | Incoming Junior
 
 
-<img width="2048" height="1536" alt="Blue stamp project picture" src="https://github.com/user-attachments/assets/59629e5e-7486-499b-bc1e-527018d5715d" />
+<img width="800" height="600" alt="Blue stamp project picture" src="https://github.com/user-attachments/assets/59629e5e-7486-499b-bc1e-527018d5715d" />
   
 # Final Milestone
 
