@@ -20,7 +20,7 @@ During this project I built and modified a robotic arm to perform better in the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BsfRBaeQHXI?si=PwjE1QwxWscbPYGx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Since my last milestone I have tested my modification to see if it benifited the design. I tested three different designs, the base project, a foamboard prototype and the final 3D printed part. I had them pick up four different objects, a small breadboard, a pen sideways, pen upwards and a sticky note pad. I took the average of two attempts for each modification and had a cap at two minutes. I found that the modified part preformed noticibly better in most categories my full results are bellow as well as images that show exactly what each item looked like.
+- Since my last milestone I have tested my modification to see if it benifited the design. I tested three different designs, the base project, a foamboard prototype and the final 3D printed part. I had them pick up four different objects, a small breadboard, a pen sideways, pen upwards and a sticky note pad. I took the average of two attempts for each modification and had a cap at two minutes. To reduce variability between test I used the home button and playback features. I found that the modified part preformed noticibly better in most categories my full results are bellow as well as images that show exactly what each item looked like.
 
 | **Test Object** | **3D Printed TPU** | **Foam Prototype** | **No Modification** |
 |:--:|:--:|:--:|:--:|
@@ -30,6 +30,7 @@ During this project I built and modified a robotic arm to perform better in the 
 | Breadboard | 1:40 | 1:15 | Failed |
 
 - During this project I learned the basics of mechanical engineering, Arduino programming, circuitry, and 3D design. I gained hands-on experience designing and iterating prototypes, wiring and coding components such as buttons and buzzers, and troubleshooting issues with servos and power systems. I also learned how to use controlled testing and data analysis to evaluate design improvements. Most importantly, I learned that engineering is an iterative process that requires persistence, problem-solving, and continuous improvement.
+- If I were to continue this project I would experiment with different TPU designs and materials to further improve the grip and geometry of the claw.
 - In the future, I want to continue learning as much as I can, whether that be in philosophy, engineering, music, or theology. This project reinforced my curiosity about how the world works and inspired me to keep exploring new ideas and disciplines. While I learned a great deal about engineering through BlueStamp, I also learned the value of asking questions, solving problems, and pursuing knowledge for its own sake. As Henry David Thoreau wrote, "Rather than love, than money, than fame, give me truth."
 
   
