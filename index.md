@@ -1,4 +1,4 @@
-<img width="2048" height="1536" alt="Blue stamp project picture" src="https://github.com/user-attachments/assets/59629e5e-7486-499b-bc1e-527018d5715d" />
+
 
 
 
@@ -11,9 +11,6 @@ During this project I built and modified a robotic arm to perform better in the 
 |:--:|:--:|:--:|:--:|
 | Max R| Las Lomas | Mechanical Engineering | Incoming Junior
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
-
-![Headstone Image](logo.svg)
 
 <img width="2048" height="1536" alt="Blue stamp project picture" src="https://github.com/user-attachments/assets/59629e5e-7486-499b-bc1e-527018d5715d" />
   
