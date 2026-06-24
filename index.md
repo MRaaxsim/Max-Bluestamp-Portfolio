@@ -29,9 +29,9 @@ During this project I built and modified a robotic arm to perform better in the 
 | Sticky Notes | 1:57 | 1:49 | Failed |
 | Breadboard | 1:40 | 1:15 | Failed |
 
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+- During this project I learned the basics of mechanical engineering, Arduino programming, circuitry, and 3D design. I gained hands-on experience designing and iterating prototypes, wiring and coding components such as buttons and buzzers, and troubleshooting issues with servos and power systems. I also learned how to use controlled testing and data analysis to evaluate design improvements. Most importantly, I learned that engineering is an iterative process that requires persistence, problem-solving, and continuous improvement.
+- In the future, I want to continue learning as much as I can, whether that be in philosophy, engineering, music, or theology. This project reinforced my curiosity about how the world works and inspired me to keep exploring new ideas and disciplines. While I learned a great deal about engineering through BlueStamp, I also learned the value of asking questions, solving problems, and pursuing knowledge for its own sake. As Henry David Thoreau wrote, "Rather than love, than money, than fame, give me truth."
+
   
 <img width="300" height="400" alt="Breadboard Test" src="https://github.com/user-attachments/assets/2f1ce363-f19c-470b-9ae3-2d67cc098467" /> Breadboard 
 
