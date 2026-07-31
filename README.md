@@ -1,4 +1,4 @@
-**
+
 
 # Blue Stamp Robotic Arm
 During this project I built and modified a robotic arm to perform better in the ability to lift irregular objects and grip strength. In order to do this I design a 3d printed part that is able to morph to objects the arm is picking up. Throughout the project I learned the basics of Arduino programming and ciurcutry while exploring the field of mechanical engineering. 
